@@ -35,7 +35,7 @@ The pipeline connects to a MySQL database with `mysql-connector-python`, creates
 
 ### ETL workflow
 
-![Python and MySQL ETL workflow](assets/etl-workflow.png)
+![Python and MySQL ETL workflow](https://github.com/sharvarisaindane03-web/ETL-Pipeline/blob/main/Pipeline.jpeg)
 
 ### MySQL Workbench results
 
